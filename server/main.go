@@ -7,8 +7,8 @@ import (
 	"google.golang.org/grpc"
 	"google.golang.org/grpc/reflection"
 
-	f "github.com/amine7777/gRPC-primenumbers/functions"
-	"github.com/amine7777/gRPC-primenumbers/proto"
+	f "github.com/amine7777/go-grpc-api/functions"
+	"github.com/amine7777/go-grpc-api/proto"
 )
 
 type server struct{}
