@@ -9,7 +9,7 @@ import (
 	"github.com/gin-gonic/gin"
 	"google.golang.org/grpc"
 
-	"github.com/amine7777/gRPC-primenumbers/proto"
+	"github.com/amine7777/go-grpc-api/proto"
 )
 
 func main() {
